@@ -15,3 +15,6 @@ The guide in this PDF will teach the user how to generate contours using DEM fil
 
  [Creating-Contours-with-Global-Mapper-Guide.pdf](https://mdl.library.utoronto.ca/sites/default/public/Creating-Contours-with-Global-Mapper-Guide.pdf)
 
+
+Tools: [Global Mapper](https://mdlutoronto.github.io/tutorials-search/?tool=Global+Mapper) | Data Format: [DEM](https://mdlutoronto.github.io/tutorials-search/?dataFormat=DEM)
+
